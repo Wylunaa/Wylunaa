@@ -13,5 +13,4 @@
    <a href="https://https://www.youtube.com/@lunna8191" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/Wylunaa/Wylunaa/blob/output/github-contribution-grid-snake.svg)
 
